@@ -8,10 +8,10 @@ This repository hosts the live remote update metadata, release downloads, and tr
 
 ## 📦 What's Hosted Here
 
-* **`app_manifest.json`**: Remote version checker and release notes for `UnknownBearTranslatorDownloader.exe`.
+* **`app_manifest.json`**: Remote version checker and release notes for the Translator and Downloader apps.
 * **`catalog.json`**: Live searchable translation database indexed by Title, RJ-Code, and Engine.
 * **Releases**:
-  * `v1.0.0+`: Compiled standalone `UnknownBearTranslator.exe` binaries.
+  * `v1.0.0+`: Compiled standalone `UnknownBearTranslator.exe` and `UnknownBearTranslatorDownloader.exe` binaries.
   * `patches`: Official `.ubp` (AES-256 encrypted) game translation patch packages.
 
 ---
