@@ -1,14 +1,14 @@
 {
   "app_name": "UnknownBearTranslator",
   "latest_version": "v1.0.0",
-  "release_date": "2026-08-22",
+  "release_date": "2026-08-26",
   "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/v1.0.0/UnknownBearTranslator.exe",
-  "download_size_bytes": 33579296,
+  "download_size_bytes": 33578932,
   "changelog": "High-DPI ClearType UI, consumer-friendly copy, manual and automatic update checks, Auto Cloud Matcher, and Save Preserver.",
   "mandatory_update": false,
   "downloader_version": "v1.0.0",
   "downloader_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/latest/download/UnknownBearTranslatorDownloader.exe",
-  "downloader_changelog": "Native GDI+ cyber UI, instant startup, auto-updating, and feedback studio.",
+  "downloader_changelog": "OS WebView2 UI, instant startup, auto-updating, and feedback studio. Sidecar DLLs must sit next to the EXE: Microsoft.Web.WebView2.Core.dll, Microsoft.Web.WebView2.WinForms.dll, WebView2Loader.dll (same v1.0.0 release).",
   "patreon_url": "https://patreon.com/UnknownBear",
   "support_url": "https://buymeacoffee.com/unknownbear"
 }
