@@ -29,20 +29,22 @@ Do not use GitHub’s “Latest” button as a download link. Each app looks up 
 
 ### Patch files on `patches`
 
-Each game has:
+Each game has **one live `.ubp`**. Same filename is overwritten. A new version string in Patch Creator updates `catalog.json` so Translator offers **UPDATE TRANSLATION (KEEP SAVES)**.
 
-- **Current file** (players always download this):  
-  `RJ198427_English_Patch_UnknownBear.ubp`
-- **History copy** (so old versions are not lost):  
-  `RJ198427_English_Patch_UnknownBear_v1.0.0.ubp`
-
-When you publish a fix from Patch Creator:
-
-1. A new history copy is uploaded (`…_v1.1.0.ubp`)
-2. The current file is replaced
-3. `catalog.json` version is bumped
+Do not keep extra history copies on the release — they waste storage and show up as Unlisted files.
 
 Players who already translated the game open Translator, drop their English folder, and click **UPDATE TRANSLATION (KEEP SAVES)**.
+
+### Downloader files
+
+Players need all four files from `downloader-v1.0.0` in the **same folder**:
+
+- `UnknownBearTranslatorDownloader.exe`
+- `Microsoft.Web.WebView2.Core.dll`
+- `Microsoft.Web.WebView2.WinForms.dll`
+- `WebView2Loader.dll`
+
+They also need the Microsoft Edge WebView2 Runtime. The Downloader then fetches Translator from `translator-v1.0.0`.
 
 ## Repository files (the menus)
 

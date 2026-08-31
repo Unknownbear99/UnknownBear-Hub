@@ -1,10 +1,10 @@
 {
   "app_name": "UnknownBearTranslator",
   "latest_version": "v1.0.0",
-  "release_date": "2026-08-26",
+  "release_date": "2026-08-31",
   "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.0/UnknownBearTranslator.exe",
-  "download_size_bytes": 33612107,
-  "changelog": "High-DPI ClearType UI, consumer-friendly copy, manual and automatic update checks, Auto Cloud Matcher, and Save Preserver.",
+  "download_size_bytes": 33629832,
+  "changelog": "Public v1.0.0 Translator: one Select Japanese Game button (folder, zip/rar/7z, or exe), catalog download cancel and reuse, hidden 7-Zip, AES-256 .ubp apply with save-preserving updates.",
   "mandatory_update": false,
   "downloader_version": "v1.0.0",
   "downloader_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/downloader-v1.0.0/UnknownBearTranslatorDownloader.exe",
