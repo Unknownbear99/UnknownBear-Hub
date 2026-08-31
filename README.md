@@ -22,7 +22,7 @@ Players never browse folders. The apps read the menus, then download the matchin
 | Tag | What it holds | When you make a new one |
 |---|---|---|
 | `translator-v1.0.0` | `UnknownBearTranslator.exe` | When you ship a new Translator |
-| `downloader-v1.0.0` | `UnknownBearTranslatorDownloader.exe` + WebView2 DLLs | When you ship a new Downloader |
+| `downloader-v1.0.0` | One self-contained `UnknownBearTranslatorDownloader.exe` | When you ship a new Downloader |
 | `patches` | One live `.ubp` per game (overwrite in place) | Stay on this one tag. Patch Creator uploads here |
 
 Do not use GitHub’s “Latest” button as a download link. Each app looks up an exact tag from the JSON menus.
@@ -35,16 +35,9 @@ Do not keep extra history copies on the release — they waste storage and show 
 
 Players who already translated the game open Translator, drop their English folder, and click **UPDATE TRANSLATION (KEEP SAVES)**.
 
-### Downloader files
+### Downloader file
 
-Players need all four files from `downloader-v1.0.0` in the **same folder**:
-
-- `UnknownBearTranslatorDownloader.exe`
-- `Microsoft.Web.WebView2.Core.dll`
-- `Microsoft.Web.WebView2.WinForms.dll`
-- `WebView2Loader.dll`
-
-They also need the Microsoft Edge WebView2 Runtime. The Downloader then fetches Translator from `translator-v1.0.0`.
+Players need **one** file from `downloader-v1.0.0`: `UnknownBearTranslatorDownloader.exe`. It unpacks WebView2 helper libraries into `%LocalAppData%\UnknownBear\TranslatorDownloader` on first run. They still need the Microsoft Edge WebView2 Runtime. The Downloader then fetches Translator from `translator-v1.0.0`.
 
 ## Repository files (the menus)
 

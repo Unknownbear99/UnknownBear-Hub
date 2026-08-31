@@ -8,7 +8,7 @@
   "mandatory_update": false,
   "downloader_version": "v1.0.0",
   "downloader_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/downloader-v1.0.0/UnknownBearTranslatorDownloader.exe",
-  "downloader_changelog": "OS WebView2 UI, instant startup, auto-updating, and feedback studio. Sidecar DLLs must sit next to the EXE: Microsoft.Web.WebView2.Core.dll, Microsoft.Web.WebView2.WinForms.dll, WebView2Loader.dll (same downloader-v1.0.0 release).",
+  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Fetches Translator from translator-v1.0.0.",
   "patreon_url": "https://patreon.com/UnknownBear",
   "support_url": "https://buymeacoffee.com/unknownbear"
 }
