@@ -23,7 +23,7 @@ Players never browse folders. The apps read the menus, then download the matchin
 |---|---|---|
 | `translator-v1.0.0` | `UnknownBearTranslator.exe` | When you ship a new Translator |
 | `downloader-v1.0.0` | `UnknownBearTranslatorDownloader.exe` + WebView2 DLLs | When you ship a new Downloader |
-| `patches` | Current `.ubp` for every game, plus dated history copies | Stay on this one tag. Patch Creator uploads here |
+| `patches` | One live `.ubp` per game (overwrite in place) | Stay on this one tag. Patch Creator uploads here |
 
 Do not use GitHub’s “Latest” button as a download link. Each app looks up an exact tag from the JSON menus.
 
