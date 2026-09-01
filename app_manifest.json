@@ -1,14 +1,14 @@
 {
   "app_name": "UnknownBearTranslator",
-  "latest_version": "v1.0.4",
+  "latest_version": "v1.0.5",
   "release_date": "2026-09-01",
-  "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.4/UnknownBearTranslator.exe",
-  "download_size_bytes": 34758504,
-  "changelog": "v1.0.4: Fixes Install Update. 1.0.2/1.0.3 could close mid-download and leave UnknownBearTranslator.exe.new. Delete that leftover, then use Downloader this once. Later updates install in the background without crashing.",
+  "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.5/UnknownBearTranslator.exe",
+  "download_size_bytes": 34936727,
+  "changelog": "v1.0.5: Windows file icon plus in-app bear avatar. Also fixes Install Update (1.0.2/1.0.3 could crash and leave a .exe.new file). Delete any UnknownBearTranslator.exe.new leftover, then use Downloader this once.",
   "mandatory_update": false,
   "downloader_version": "v1.0.0",
   "downloader_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/downloader-v1.0.0/UnknownBearTranslatorDownloader.exe",
-  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Fetches Translator from translator-v1.0.4.",
+  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Fetches Translator from translator-v1.0.5.",
   "patreon_url": "https://patreon.com/UnknownBear",
   "support_url": "https://buymeacoffee.com/unknownbear"
 }
