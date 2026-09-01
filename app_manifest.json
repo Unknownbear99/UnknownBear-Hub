@@ -1,14 +1,14 @@
 {
   "app_name": "UnknownBearTranslator",
-  "latest_version": "v1.0.0",
-  "release_date": "2026-08-31",
-  "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.0/UnknownBearTranslator.exe",
-  "download_size_bytes": 34676855,
-  "changelog": "Public v1.0.0 Translator: one Select Japanese Game button, catalog download cancel/reuse, built-in portable 7-Zip for RAR if the PC has no 7-Zip/WinRAR, AES-256 apply with save-preserving updates.",
+  "latest_version": "v1.0.1",
+  "release_date": "2026-09-01",
+  "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.1/UnknownBearTranslator.exe",
+  "download_size_bytes": 34748606,
+  "changelog": "v1.0.1: Play on English Windows (including Windows 11). Translator writes a portable Japanese locale helper, a per-game Locale Emulator profile, and a ja-JP code-page manifest next to the game EXE so Kirikiri no longer shows ???????? / syntax error. Open Downloader to update. You do not need to re-apply the translation patch.",
   "mandatory_update": false,
   "downloader_version": "v1.0.0",
   "downloader_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/downloader-v1.0.0/UnknownBearTranslatorDownloader.exe",
-  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Fetches Translator from translator-v1.0.0.",
+  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Fetches Translator from translator-v1.0.1.",
   "patreon_url": "https://patreon.com/UnknownBear",
   "support_url": "https://buymeacoffee.com/unknownbear"
 }
