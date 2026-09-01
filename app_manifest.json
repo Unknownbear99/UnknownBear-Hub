@@ -1,14 +1,14 @@
 {
   "app_name": "UnknownBearTranslator",
-  "latest_version": "v1.0.2",
+  "latest_version": "v1.0.3",
   "release_date": "2026-09-01",
-  "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.2/UnknownBearTranslator.exe",
-  "download_size_bytes": 34753474,
-  "changelog": "v1.0.2: Install Translator updates from the in-app banner (no Downloader needed). Downloads the new EXE, replaces this one, and restarts. 1.0.1 Japanese-locale Play fix is included.",
+  "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.3/UnknownBearTranslator.exe",
+  "download_size_bytes": 34756667,
+  "changelog": "v1.0.3: Applying a RAR/ZIP no longer pops a blank Explorer window. Translator explains that it will create a new English game folder (default: next to your Japanese archive). Choose a different folder is optional.",
   "mandatory_update": false,
   "downloader_version": "v1.0.0",
   "downloader_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/downloader-v1.0.0/UnknownBearTranslatorDownloader.exe",
-  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Fetches Translator from translator-v1.0.2.",
+  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Fetches Translator from translator-v1.0.3.",
   "patreon_url": "https://patreon.com/UnknownBear",
   "support_url": "https://buymeacoffee.com/unknownbear"
 }
