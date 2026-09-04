@@ -19,6 +19,23 @@
       "patreon_url": "https://patreon.com/UnknownBear",
       "status": "Completed",
       "previous_versions": []
+    },
+    {
+      "game_title": "Ningen Sousa App de Tomodachi no Gyaru Nee wo Sukihoudai Suru Hanashi",
+      "aliases": [
+        "RJ01593452",
+        "Ningen Sousa App de Tomodachi no Gyaru Nee wo Sukihoudai Suru Hanashi"
+      ],
+      "rj_code": "RJ01593452",
+      "version": "1.0.0",
+      "engine": "Ren'Py Visual Novel Engine",
+      "release_date": "2026-09-04",
+      "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/RJ01593452_English_Patch_UnknownBear.ubp",
+      "ubp_size_bytes": 5081807,
+      "f95_url": "https://f95zone.to/members/unknownbear",
+      "patreon_url": "https://patreon.com/UnknownBear",
+      "status": "Completed",
+      "previous_versions": []
     }
   ]
 }
