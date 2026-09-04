@@ -2,12 +2,12 @@
   "updated_at": "2026-09-04",
   "games": [
     {
-      "game_title": "Netorare Moto Yan Kyonyuu Tsuma ~Anta no Yome-san, Namahame Uwaki Chipo de Pakoraretemasu yo~",
+      "game_title": "Netorare Moto Yan Kyonyuu Tsuma ~Anta no Yome-san, Namahame Uwaki Chi*po de Pakoraretemasu yo~",
       "aliases": [
         "RJ198427",
         "RY-v21187",
         "Netorare Moto Yan",
-        "Netorare Moto Yan Kyonyuu Tsuma ~Anta no Yome-san, Namahame Uwaki Chipo de Pakoraretemasu yo~"
+        "Netorare Moto Yan Kyonyuu Tsuma ~Anta no Yome-san, Namahame Uwaki Chi*po de Pakoraretemasu yo~"
       ],
       "rj_code": "RJ198427",
       "version": "1.0.0",
@@ -15,23 +15,6 @@
       "release_date": "2026-08-31",
       "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/RY-v21187_English_Patch_UnknownBear.ubp",
       "ubp_size_bytes": 402899547,
-      "f95_url": "https://f95zone.to/members/unknownbear",
-      "patreon_url": "https://patreon.com/UnknownBear",
-      "status": "Completed",
-      "previous_versions": []
-    },
-    {
-      "game_title": "RY-RJ01593452_V1.03",
-      "aliases": [
-        "RJ01593452",
-        "RY-RJ01593452_V1.03"
-      ],
-      "rj_code": "RJ01593452",
-      "version": "1.0.0",
-      "engine": "Ren'Py Visual Novel Engine",
-      "release_date": "2026-09-04",
-      "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/RJ01593452_English_Patch_UnknownBear.ubp",
-      "ubp_size_bytes": 770010183,
       "f95_url": "https://f95zone.to/members/unknownbear",
       "patreon_url": "https://patreon.com/UnknownBear",
       "status": "Completed",
