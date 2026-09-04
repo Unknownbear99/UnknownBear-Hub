@@ -19,22 +19,6 @@
       "patreon_url": "https://patreon.com/UnknownBear",
       "status": "Completed",
       "previous_versions": []
-    },
-    {
-      "game_title": "Game",
-      "aliases": [
-        "Game"
-      ],
-      "rj_code": "",
-      "version": "1.0.0",
-      "engine": "Generic",
-      "release_date": "2026-09-04",
-      "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/UnknownBear_Game_English_Patch.ubp",
-      "ubp_size_bytes": 5081807,
-      "f95_url": "https://f95zone.to/members/unknownbear",
-      "patreon_url": "https://patreon.com/UnknownBear",
-      "status": "Completed",
-      "previous_versions": []
     }
   ]
 }
