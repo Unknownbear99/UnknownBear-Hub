@@ -1,14 +1,14 @@
 {
   "app_name": "UnknownBearTranslator",
-  "latest_version": "v1.0.0",
-  "release_date": "2026-09-01",
-  "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.0/UnknownBearTranslator.exe",
-  "download_size_bytes": 34935266,
-  "changelog": "v1.0.0: Initial public release of UnknownBear Game Translator & Patcher with high-speed Japanese VN localization, safe archive extraction, and save protection.",
+  "latest_version": "v1.0.1",
+  "release_date": "2026-09-05",
+  "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.1/UnknownBearTranslator.exe",
+  "download_size_bytes": 34962592,
+  "changelog": "v1.0.1: Nested ZIP-in-RAR (Ren'Py), Locale Emulator only for KiriKiri/Wolf/RGSS, more reliable Hub matching (RJ/RY-v, no sibling mixups), English folders stay under the Windows path limit, unzipped folders work like RARs, PlayEnglish on English Windows. The v1.0.0 Downloader installs this build from this manifest.",
   "mandatory_update": false,
   "downloader_version": "v1.0.0",
   "downloader_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/downloader-v1.0.0/UnknownBearTranslatorDownloader.exe",
-  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Fetches Translator from translator-v1.0.0.",
+  "downloader_changelog": "Single-file forum drop. Unpacks WebView2 helpers into LocalAppData on first run. Requires the Microsoft Edge WebView2 Runtime. Reads app_manifest.json and downloads the Translator tag listed there (currently translator-v1.0.1).",
   "patreon_url": "https://patreon.com/UnknownBear",
   "support_url": "https://buymeacoffee.com/unknownbear"
 }
