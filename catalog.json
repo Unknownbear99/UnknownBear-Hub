@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07",
+  "updated_at": "2026-09-12",
   "games": [
     {
       "game_title": "Netorare Moto Yan Kyonyuu Tsuma ~Anta no Yome-san, Namahame Uwaki Chi*po de Pakoraretemasu yo~",
@@ -32,6 +32,23 @@
       "release_date": "2026-09-07",
       "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/RJ01593452_English_Patch_UnknownBear.ubp",
       "ubp_size_bytes": 5080804,
+      "f95_url": "https://f95zone.to/members/unknownbear",
+      "patreon_url": "https://patreon.com/UnknownBear",
+      "status": "Completed",
+      "previous_versions": []
+    },
+    {
+      "game_title": "Ningen Sousa App de Kyonyuu Itoko o Suki Hodaisuru Hanashi",
+      "aliases": [
+        "RJ01562297",
+        "Ningen Sousa App de Kyonyuu Itoko o Suki Hodaisuru Hanashi"
+      ],
+      "rj_code": "RJ01562297",
+      "version": "1.0.0",
+      "engine": "Ren'Py Visual Novel Engine",
+      "release_date": "2026-09-12",
+      "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/RJ01562297_English_Patch_UnknownBear.ubp",
+      "ubp_size_bytes": 5454216,
       "f95_url": "https://f95zone.to/members/unknownbear",
       "patreon_url": "https://patreon.com/UnknownBear",
       "status": "Completed",
