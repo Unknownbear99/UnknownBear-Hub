@@ -53,6 +53,23 @@
       "patreon_url": "https://patreon.com/UnknownBear",
       "status": "Completed",
       "previous_versions": []
+    },
+    {
+      "game_title": "Kanojo wa Dare to demo Sex suru",
+      "aliases": [
+        "RY-v15562",
+        "Kanojo wa Dare to demo Sex suru"
+      ],
+      "rj_code": "RY-v15562",
+      "version": "1.0.0",
+      "engine": "KiriKiri 2 / KAG",
+      "release_date": "2026-09-12",
+      "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/RY-v15562_English_Patch_UnknownBear.ubp",
+      "ubp_size_bytes": 61265382,
+      "f95_url": "https://f95zone.to/members/unknownbear",
+      "patreon_url": "https://patreon.com/UnknownBear",
+      "status": "Completed",
+      "previous_versions": []
     }
   ]
 }
