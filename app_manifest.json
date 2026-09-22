@@ -4,7 +4,7 @@
   "release_date": "2026-09-21",
   "download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/translator-v1.0.2/UnknownBearTranslator.exe",
   "download_size_bytes": 34969013,
-  "changelog": "v1.0.2: Upward ancestor folder snapping, atomic safe-swap with save protection, non-blocking UI background workers, live startup catalog check, Ren'Py engine filter, and security hardening.",
+  "changelog": "v1.0.2: Upward ancestor folder snapping, atomic safe-swap with save protection, non-blocking UI background workers, live startup catalog check, Ren'Py engine filter, and archive path validation.",
   "mandatory_update": false,
   "downloader_version": "v1.0.0",
   "downloader_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/downloader-v1.0.0/UnknownBearTranslatorDownloader.exe",
