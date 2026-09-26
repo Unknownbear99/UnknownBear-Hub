@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-09-26",
   "games": [
     {
       "game_title": "Netorare Moto Yan Kyonyuu Tsuma ~Anta no Yome-san, Namahame Uwaki Chi*po de Pakoraretemasu yo~",
@@ -97,6 +97,23 @@
           "release_date": "2026-09-15"
         }
       ]
+    },
+    {
+      "game_title": "Sei Yariman Sisters ♥ Pakopako Nikki",
+      "aliases": [
+        "RY-v14071",
+        "Sei Yariman Sisters ♥ Pakopako Nikki"
+      ],
+      "rj_code": "RY-v14071",
+      "version": "1.0.0",
+      "engine": "KiriKiri 2 / KAG",
+      "release_date": "2026-09-26",
+      "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/RY-v14071_English_Patch_UnknownBear.ubp",
+      "ubp_size_bytes": 40207462,
+      "f95_url": "https://f95zone.to/members/unknownbear",
+      "patreon_url": "https://patreon.com/UnknownBear",
+      "status": "Completed",
+      "previous_versions": []
     }
   ]
 }
