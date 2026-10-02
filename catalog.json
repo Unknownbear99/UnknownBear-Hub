@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26",
+  "updated_at": "2026-10-02",
   "games": [
     {
       "game_title": "Netorare Moto Yan Kyonyuu Tsuma ~Anta no Yome-san, Namahame Uwaki Chi*po de Pakoraretemasu yo~",
@@ -111,6 +111,27 @@
       "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/RY-v14071_English_Patch_UnknownBear.ubp",
       "ubp_size_bytes": 40207462,
       "f95_url": "https://f95zone.to/members/unknownbear",
+      "patreon_url": "https://patreon.com/UnknownBear",
+      "status": "Completed",
+      "previous_versions": []
+    },
+    {
+      "game_title": "Stripjong - Super Real Mahjong Venus Returns [Fix]",
+      "aliases": [
+        "Stripjong",
+        "Super Real Mahjong Venus Returns",
+        "Stripjong Venus Returns",
+        "SRMR",
+        "Stripjong – Super Real Mahjong Venus Returns",
+        "Stripjong - Super Real Mahjong Venus Returns"
+      ],
+      "rj_code": "FIX",
+      "version": "1.0.0",
+      "engine": "Unity (Fix)",
+      "release_date": "2026-10-02",
+      "ubp_download_url": "https://github.com/Unknownbear99/UnknownBear-Hub/releases/download/patches/Stripjong_Venus_Returns_Date_Fix_UnknownBear.ubp",
+      "ubp_size_bytes": 61317,
+      "f95_url": "https://f95zone.to/threads/stripjong-super-real-mahjong-venus-returns-final-illumination.312678/",
       "patreon_url": "https://patreon.com/UnknownBear",
       "status": "Completed",
       "previous_versions": []
