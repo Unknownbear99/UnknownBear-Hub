@@ -121,10 +121,9 @@
         "Stripjong",
         "Super Real Mahjong Venus Returns",
         "Stripjong Venus Returns",
-        "SRMR",
-        "Stripjong – Super Real Mahjong Venus Returns",
-        "Stripjong - Super Real Mahjong Venus Returns"
+        "SRMR"
       ],
+      "romaji": "Bypasses startup date lockup • No PC clock rollback needed",
       "rj_code": "FIX",
       "version": "1.0.0",
       "engine": "Unity (Fix)",
